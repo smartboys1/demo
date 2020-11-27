@@ -61,4 +61,6 @@ function draw(){
 
     bird.display();
     platform.display();
+    
 }
+demo files to cheak the updates
